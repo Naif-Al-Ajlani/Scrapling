@@ -13,6 +13,7 @@ Written against commit `cb00f1b` on `main`. Line references point at that revisi
 | [`01-architecture-and-files.md`](01-architecture-and-files.md) | Layer map and a file-by-file walkthrough of every module, test directory, and repo-level file |
 | [`02-design-patterns.md`](02-design-patterns.md) | The 30-odd recurring techniques, each with the code that demonstrates it and the cost it carries |
 | [`03-building-similar-tools.md`](03-building-similar-tools.md) | The transferable skeleton, the spec templates to feed a model, a worked transposition to a different domain, and a review checklist |
+| [`04-adjacent-product-ideas.md`](04-adjacent-product-ideas.md) | Twenty non-scraping tools evaluated against that skeleton: five worth building, seven held back, four that fail and why |
 
 ## Summary of what the code does
 
